@@ -2,13 +2,16 @@
 Teaching, Crypto, SSL, C++, Android, Deep Learning
 
 ## Interest
-Convolutional Neural Nets
+Convolutional Neural Nets, AR
+
+## Current Research
+AR lazer googles (prov patent .....)
 
 ## Student Projects
-Body Measurements
-Better Amber Alert
-Masters Advisor - AR vision App
-Amazon Alexa- Voice for enterprise database queries
+Body Measurements<br>
+Better Amber Alert<br>
+Masters Advisor - AR vision App<BR>
+Amazon Alexa- Voice for enterprise database queries<br>
 
 ## AI
 Chest XRay
