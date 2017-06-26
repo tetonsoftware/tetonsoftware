@@ -1,0 +1,16 @@
+{
+"pets":[
+	{	
+	"name":"Barry",
+	"file":"p0.png"
+	},
+	{	
+	"name":"Crumpet",
+	"file":"p1.png"
+	},
+	{	
+	"name":"Rugby",
+	"file":"p2.png"
+	}
+	]
+}
